@@ -96,8 +96,8 @@ const ImageCard = ({
             : "md:translate-x-4 md:opacity-0"
         )}
       >
-        <p className="text-sm uppercase text-purple-400 md:text-lg">{title}</p>
-        <p className="text-lg font-bold md:text-4xl">{name}</p>
+        <p className="text-sm uppercase text-purple-300 md:text-lg">{title}</p>
+        <p className="text-lg font-bold text-slate-200 md:text-4xl">{name}</p>
       </div>
     </div>
   );
