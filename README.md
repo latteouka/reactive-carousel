@@ -1,5 +1,3 @@
-# t3 + three + r3f
+# reactive carousel
 
-This template integrate every stacks I am using.
-
-(use tailwindcss though)
+https://www.youtube.com/watch?v=4JQ-kgq5Ryw&ab_channel=frontendfyi

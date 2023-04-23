@@ -8,6 +8,10 @@ await import("./src/env.mjs");
 const nextConfig = async () => ({
   reactStrictMode: true,
 
+  images: {
+    domains: ["unsplash.com"],
+  },
+
   /**
    * If you have `experimental: { appDir: true }` set, then you must comment the below `i18n` config
    * out.
