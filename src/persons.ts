@@ -1,8 +1,8 @@
 export const persons = [
   {
     img: "/1.jpg",
-    title: "京都",
-    name: "錦市場",
+    title: "嵐山",
+    name: "老松",
   },
   {
     img: "/2.jpg",
@@ -36,7 +36,7 @@ export const persons = [
   },
   {
     img: "/8.jpg",
-    title: "general partner, andreessen horowitz",
-    name: "Angela Strange",
+    title: "嵐山",
+    name: "まち",
   },
 ];
